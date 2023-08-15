@@ -1,5 +1,5 @@
 return {
-  colorscheme = "lunaperche",
+  colorscheme = "catppuccin",
 
   plugins = {
     {
